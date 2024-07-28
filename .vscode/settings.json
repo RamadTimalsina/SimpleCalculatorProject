@@ -1,0 +1,8 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "CodeGPT.apiKey": "CodeGPT Plus Beta",
+  "CodeGPT.Autocomplete.enabled": true,
+  "CodeGPT.Autocomplete.suggestionDelay": 600,
+  "CodeGPT.Autocomplete.provider": "CodeGPT Plus - Plus",
+  "CodeGPT.Autocomplete.maxTokens": 104
+}
